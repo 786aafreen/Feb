@@ -1,0 +1,1 @@
+print('Artificial Intelligence  is a Rollercoaster lets take a ride ')
